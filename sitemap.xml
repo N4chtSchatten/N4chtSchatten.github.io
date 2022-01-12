@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://n4chtschatten.github.io/</loc>
     <lastmod>2022-01-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/welcome-to-our-new-website/</loc>
+    <loc>https://n4chtschatten.github.io/blog/welcome-to-our-new-website/</loc>
     <lastmod>2022-01-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/activities/</loc>
+    <loc>https://n4chtschatten.github.io/activities/</loc>
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://n4chtschatten.github.io/blog/</loc>
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://n4chtschatten.github.io/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://n4chtschatten.github.io/portfolio/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://n4chtschatten.github.io/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://n4chtschatten.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://n4chtschatten.github.io/tags/</loc>
   </url>
 </urlset>
