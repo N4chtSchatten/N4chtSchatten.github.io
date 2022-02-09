@@ -17,6 +17,8 @@
 <!-- Stylesheets -->
 <!-- Themefisher Icon font -->
 <link rel="stylesheet" href="https://n4chtschatten.github.io/plugins/themefisher-font/style.css">
+<!-- Ionicons font -->
+<link rel="stylesheet" href="https://n4chtschatten.github.io/plugins/ionicons-font/style.css">
 <!-- bootstrap.min css -->
 <link rel="stylesheet" href="https://n4chtschatten.github.io/plugins/bootstrap/dist/css/bootstrap.min.css">
 <!-- Lightbox.min css -->
@@ -55,10 +57,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <nav class="navbar navbar-expand-lg">
+                <nav class="navbar navbar-expand-lg py-0">
                     <a class="navbar-brand" href="/">
-                        <img src="https://n4chtschatten.github.io/images/logo-long.scaled.png" alt="GAC">
+                        <img src="https://n4chtschatten.github.io/images/logo.scaled.png" alt="Green Ambassadors Club">
                     </a>
+                    <span class="navbar-brand mb-0 h1"><b>GREEN AMBASSADORS CLUB</b></span>
                     <div class="d-flex align-items-center">
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
                             aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -113,7 +116,8 @@
             </div>
         </div>
     </div>
-</section><div id="content">
+</section>
+<div id="content">
 
 <!-- Page Title Section Start -->
 <section class="single-page-header">
@@ -185,35 +189,17 @@
                     <ul class="list-inline social-icon">
                         
                         <li class="list-inline-item">
-                            <a href="https://www.facebook.com/">
+                            <a href="https://www.facebook.com/ambassadors4all/">
                                 <i class="tf-ion-social-facebook"></i>
                             </a>
                         </li>
                         
                         
-                        <li class="list-inline-item">
-                            <a href="https://twitter.com/">
-                                <i class="tf-ion-social-twitter"></i>
-                            </a>
-                        </li>
+                        
                         
                         
                         <li class="list-inline-item">
-                            <a href="https://www.linkedin.com/">
-                                <i class="tf-ion-social-linkedin"></i>
-                            </a>
-                        </li>
-                        
-                        
-                        <li class="list-inline-item">
-                            <a href="https://dribbble.com/">
-                                <i class="tf-ion-social-dribbble"></i>
-                            </a>
-                        </li>
-                        
-                        
-                        <li class="list-inline-item">
-                            <a href="https://www.instagram.com/">
+                            <a href="https://www.instagram.com/itecwgac">
                                 <i class="tf-ion-social-instagram"></i>
                             </a>
                         </li>
@@ -265,46 +251,6 @@
 <script src="https://n4chtschatten.github.io/js/script.min.js"></script>
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
-</div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires:  2 
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
-
-
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
-
-.cookie-box-hide {
-  display: none;
-}
-</style>
 
 </body>
 </html>
